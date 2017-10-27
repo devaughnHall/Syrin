@@ -1,0 +1,24 @@
+{
+  "name": "syrin",
+  "version": "1.0.0",
+  "description": "\"Online digital audio workstation\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devaughnhall/syrin.git"
+  },
+  "keywords": [
+    "digital",
+    "audio",
+    "workstation"
+  ],
+  "author": "DeVaughn Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devaughnhall/syrin/issues"
+  },
+  "homepage": "https://github.com/devaughnhall/syrin#readme"
+}
