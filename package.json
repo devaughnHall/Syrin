@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/devaughnhall/syrin/issues"
   },
-  "homepage": "https://github.com/devaughnhall/syrin#readme"
+  "homepage": "https://github.com/devaughnhall/syrin#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "less": "^2.7.3",
+    "lodash": "^4.17.4",
+    "webpack": "^3.8.1"
+  }
 }
